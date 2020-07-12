@@ -12,7 +12,7 @@
     "express-session": "~1.5.2",
     "errorhandler": "~1.0.0",
     "compression": "~1.6.0",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.16",
     "ejs": "~2.5.5",
     "mongoose": "~4.3.6",
     "composable-middleware": "^0.3.0",
